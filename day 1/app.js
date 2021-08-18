@@ -4,7 +4,7 @@ let name = "Cherry"
 const age = 22
 console.log(name, age)
 
-let firstname = "Socheata"
+let firstname = "Socheat"
 let lastname = "Sok"
 let country = "Cambodia"
 let city = "Phnom Penh"
